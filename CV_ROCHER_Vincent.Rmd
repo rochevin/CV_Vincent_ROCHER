@@ -1,0 +1,203 @@
+---
+title: "Vincent Rocher"
+author: Vincent Rocher
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ['cv.css', 'resume']
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> vincent.rocher@univ-tlse3.fr
+- <i class="fa fa-envelope"></i> vincent.rocher.armd@gmail.com
+- <i class="fa fa-github"></i> [github.com/rochevin](https://github.com/rochevin)
+- <i class="fa fa-phone"></i> 06 70 78 40 84
+
+Pour plus d'information, vous pouvez me contacter par mail.
+
+Programmation {#skills-Programmation}
+--------------------------------------------------------------------------------
+
+* Programmation en __R__ & __Python__ (bases en C).
+* Ligne de commande avancée avec __bash__.
+* __Git__ & gestion de versions.
+
+Data-science {#skills-datascience}
+--------------------------------------------------------------------------------
+
+* Automatisation de pipelines avec [Snakemake](https://snakemake.readthedocs.io/en/stable/) & [Luigi](https://luigi.readthedocs.io/en/stable/).
+* Manipulation, Traitement & Visualisation des données avec __R (tidyverse/ggplot)__ & __Python (numpy/pandas)__.
+* Inférence et prédiction en utilisant des modèles de __Machine Learning__ paramétriques & non-paramétriques avec __tidymodels__ & __scikit-Learn__.
+* Construction de modèles de __Deep Learning__ avec __Keras & Tensorflow__.
+
+Langues {#skills-langues}
+--------------------------------------------------------------------------------
+
+* Anglais scientifique : __890 au TOEIC__.
+
+
+Document généré le : `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+<b style='color:#2980b9'>V</b>incent <b style='color:#2980b9'>R</b>ocher {#title}
+--------------------------------------------------------------------------------
+
+### Recherche d'emploi en data science pour la fin de l'année 2021.
+
+À la recherche d'un emploi dans le domaine de la __Data Science__ - __Intelligence Artificielle__, pour commencer à la fin de mon doctorat qui se termine en fin d'année 2021.
+
+
+
+Expérience professionnelle {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Doctorant en Bioinformatique
+
+[Centre de Biologie Intégrative (CBI)](https://cbi-toulouse.fr/fr/equipe-legube) - [Équipe Chromatin and DNA repair](https://www.legubelab.com/)
+
+Toulouse, France
+
+2018 - Présent
+
+Pendant ma thèse, j'ai travaillé sur des projets à long terme en collaboration avec des chercheurs en biologie, statistique et informatique provenant de plusieurs institutions.
+
+#### Compétences générales :
+
+
+- Présenter & Rédiger des résultats de recherche pour des conférences & articles scientifiques.
+- Veille bibliographique pour déterminer les méthodes statistiques adéquate aux données biologiques.
+- Écrire les méthodes statistiques utilisées pour publication.
+- Vulgarisation scientifique pour les chercheurs & les étudiants.
+- Enseignement en Master de méthodes statistiques générales & spécialisés pour les données biologiques.
+
+
+#### Traitement, Analyse, Inférence et Visualisation de données biologiques. :
+
+
+- Traitement & Analyse des données biologiques "brutes" de façon à les rendre exploitables via différentes pipelines informatiques. 
+- Expliquer & visualiser des données complexes en utilisant des méthodes simples. 
+- Inférence des données biologiques en utilisant des méthodes statistiques paramétriques ou non-paramétriques. 
+- Mise au point de modèles de Machine/Deep Learning pour l'explication & la prédiction de données biologiques.
+- Réduction de dimension pour expliquer des jeux de données à haute dimension.
+
+
+
+
+### Apprenti Ingénieur - Ingénieur d'Étude en bioinformatique 
+
+[Centre de Biologie Intégrative (CBI)](https://cbi-toulouse.fr/fr/equipe-legube) - [Équipe Chromatin and DNA repair](https://www.legubelab.com/)
+
+Toulouse, France
+
+2015 - 2018
+
+
+- Mise au point de l'infrastructure logicielle pour le traitement des données de l'équipe - laboratoire sur serveur de calcul.
+- Mise au point des pipelines d'outils bioinformatiques pour le traitement des données biologiques.
+- Automatisation du traitement des données biologiques.
+- Mise en place d'applications web "user-friendly" pour le traitement de données biologiques. 
+- Collaboration avec le biologiste pour la mise au point du plan d'expérience.
+- Écriture du matériels & méthodes - Publication des scripts sur GitHub.
+
+
+Publications sélectionnées {data-icon=file}
+--------------------------------------------------------------------------------
+
+### [DeepG4 : A deep learning approach to predict active G-quadruplexes from DNA](https://www.biorxiv.org/content/10.1101/2020.07.22.215699v3)
+
+Preprint sur bioRxiv - Soumission à Plos Computational Biology.
+
+N/A
+
+2021
+
+<b style='color:#2980b9'>**Vincent Rocher**</b>, Matthieu Genais, Elissar Nassereddine and Raphael Mourad.
+
+- Mise au point du modèle de Deep Learning & production des graphiques de la publication.
+- Développement d'un package R pour englober l'outil.
+
+### [Loop extrusion as a mechanism for formation of DNA damage repair foci](https://www.nature.com/articles/s41586-021-03193-z)
+
+Nature 2021.
+
+N/A
+
+2021
+
+Coline Arnould, <b style='color:#2980b9'>**Vincent Rocher**</b>,... and Gaëlle Legube.
+
+- Traitement & analyse des données biologiques publiées.
+- Manipuler des données de très grandes dimensions sous la forme de __sparse matrix__ et simplifier ces données de façon à produire un résultat compréhensible & publiable. 
+- Intégrer des données multi-variées.
+
+### [Comprehensive Mapping of Histone Modifications at DNA Double-Strand Breaks Deciphers Repair Pathway Chromatin Signatures](https://pubmed.ncbi.nlm.nih.gov/30270107/)
+
+Mol Cell. 2018.
+
+N/A
+
+2018
+
+Thomas Clouaire, <b style='color:#2980b9'>**Vincent Rocher**</b>,... and Gaëlle Legube. 
+
+- Traitement et Analyse des données biologiques publiées.
+- Production des figures et inférences statistiques sur la population.
+
+Enseignement {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction aux statistiques 
+
+Enseignement TP pour les Master 1 en biologie.
+
+Université de Toulouse, France
+
+2019 (15h)
+
+### Bioinformatique & Traitement de données de séquençage à haut débit
+
+Enseignement TP pour les Master 1 Bioinformatique.
+
+Université de Toulouse, France
+
+2020 (20h)
+
+
+Éducation {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Doctorat en Bioinformatique
+
+Université Toulouse 3 Paul Sabatier
+
+Toulouse, France
+
+2018 - Présent
+
+### Master en Bioinformatique en apprentissage en alternance (format spécial en 3 ans)
+
+Université de Rouen
+
+Rouen, France
+
+2014 - 2017
+
+<!-- ### Licence biologie - Parcours Biochimie, biologie moléculaire, cellulaire et physiologie -->
+
+<!-- Université de Rouen -->
+
+<!-- Rouen, France -->
+
+<!-- 2014 - 2017 -->
