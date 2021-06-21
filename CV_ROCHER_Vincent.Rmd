@@ -33,10 +33,11 @@ Programmation {#skills-Programmation}
 Data-science {#skills-datascience}
 --------------------------------------------------------------------------------
 
-* Automatisation de pipelines avec [Snakemake](https://snakemake.readthedocs.io/en/stable/) & [Luigi](https://luigi.readthedocs.io/en/stable/).
 * Manipulation, Traitement & Visualisation des données avec __R (tidyverse/ggplot)__ & __Python (numpy/pandas)__.
 * Inférence et prédiction en utilisant des modèles de __Machine Learning__ paramétriques & non-paramétriques avec __tidymodels__ & __scikit-Learn__.
 * Construction de modèles de __Deep Learning__ avec __Keras & Tensorflow__.
+* Automatisation de pipelines avec [Snakemake](https://snakemake.readthedocs.io/en/stable/) & [Luigi](https://luigi.readthedocs.io/en/stable/).
+* Écritures de documents scientifiques en utilisant [Rmarkdown](https://rmarkdown.rstudio.com/) (websites/présentations/rapports automatiques/CV).
 
 Langues {#skills-langues}
 --------------------------------------------------------------------------------
@@ -44,7 +45,7 @@ Langues {#skills-langues}
 * Anglais scientifique : __890 au TOEIC__.
 
 
-Document généré le : `r Sys.Date()`.
+Document généré le `r today <- Sys.Date();format(today, format="%d %B %Y")`.
 
 
 
@@ -76,7 +77,7 @@ Pendant ma thèse, j'ai travaillé sur des projets à long terme en collaboratio
 #### Compétences générales :
 
 
-- Présenter & Rédiger des résultats de recherche pour des conférences & articles scientifiques.
+- Présenter & Rédiger des résultats de recherche, en anglais & en français, pour des conférences & articles scientifiques.
 - Veille bibliographique pour déterminer les méthodes statistiques adéquate aux données biologiques.
 - Écrire les méthodes statistiques utilisées pour publication.
 - Vulgarisation scientifique pour les chercheurs & les étudiants.
@@ -90,7 +91,7 @@ Pendant ma thèse, j'ai travaillé sur des projets à long terme en collaboratio
 - Expliquer & visualiser des données complexes en utilisant des méthodes simples. 
 - Inférence des données biologiques en utilisant des méthodes statistiques paramétriques ou non-paramétriques. 
 - Mise au point de modèles de Machine/Deep Learning pour l'explication & la prédiction de données biologiques.
-- Réduction de dimension pour expliquer des jeux de données à haute dimension.
+- Réduction de dimension pour expliquer des jeux de données à grande dimension.
 
 
 
@@ -111,8 +112,27 @@ Toulouse, France
 - Collaboration avec le biologiste pour la mise au point du plan d'expérience.
 - Écriture du matériels & méthodes - Publication des scripts sur GitHub.
 
+Enseignement {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
 
-Publications sélectionnées {data-icon=file}
+### Bioinformatique & Traitement de données de séquençage à haut débit
+
+Enseignement TP pour les Master 1 Bioinformatique.
+
+Université de Toulouse, France
+
+2020 (20h)
+
+### Introduction aux statistiques 
+
+Enseignement TP pour les Master 1 en biologie.
+
+Université de Toulouse, France
+
+2019 (15h)
+
+
+Publications sélectionnées 3/8 {data-icon=file}
 --------------------------------------------------------------------------------
 
 ### [DeepG4 : A deep learning approach to predict active G-quadruplexes from DNA](https://www.biorxiv.org/content/10.1101/2020.07.22.215699v3)
@@ -155,24 +175,6 @@ Thomas Clouaire, <b style='color:#2980b9'>**Vincent Rocher**</b>,... and Gaëlle
 - Traitement et Analyse des données biologiques publiées.
 - Production des figures et inférences statistiques sur la population.
 
-Enseignement {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Introduction aux statistiques 
-
-Enseignement TP pour les Master 1 en biologie.
-
-Université de Toulouse, France
-
-2019 (15h)
-
-### Bioinformatique & Traitement de données de séquençage à haut débit
-
-Enseignement TP pour les Master 1 Bioinformatique.
-
-Université de Toulouse, France
-
-2020 (20h)
 
 
 Éducation {data-icon=graduation-cap data-concise=true}
